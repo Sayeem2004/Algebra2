@@ -5,3 +5,5 @@
 - Started 2020-06-01.
 - http://www.mediafire.com/folder/pvk569h3o2gti/Algebra_Animation  
 - https://drive.google.com/drive/u/0/folders/1FVhoL_XdVcVcPBNCrtByhnV-uB_e03hr  
+## Ownership
+- All files in this repository were made by me and friends.
